@@ -4,6 +4,7 @@ This is a Crypto Converter web application built using HTML, CSS, JavaScript, Re
 
 The application allows users to convert between different cryptocurrencies. It fetches real-time data from a cryptocurrency exchange API to provide accurate conversion rates. The user interface is designed using Ant Design components, providing a sleek and intuitive experience.
 
+
 # Technologies Used - 
 
 HTML: Used for structuring the web page.
@@ -17,6 +18,7 @@ React: JavaScript library for building user interfaces.
 React Hooks: Used for managing state and lifecycle in functional components.
 
 Ant Design (antd): Third-party UI library for building elegant and efficient user interfaces.
+
 
 # Features
 
